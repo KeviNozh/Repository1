@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "titulo": "El Principito",
+        "autor": "Antoine de Saint-Exupéry",
+        "categoria": "Ficción",
+        "editorial": "Editorial XYZ"
+    },
+    {
+        "id": 2,
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "categoria": "Ficción",
+        "editorial": "Editorial ABC"
+    }
+]
